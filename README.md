@@ -23,10 +23,7 @@ Estudia la evolución de ingresos previstos y recaudados a lo largo del tiempo, 
 
 ### - **Estructura del Proyecto** 🗂️
 
-        ├── datos
-            ├── output_data                         
-                ├── df_limpio.pkl                   # data limpia y unificada
-            ├── raw_data                            # data sin modificar en .gitignore
+        ├── img                                     # imagenes en EDAs       
         ├── src
             ├── _pycache_       
             ├── fx_limpieza.py                      # funcion para limpiar dataframe
